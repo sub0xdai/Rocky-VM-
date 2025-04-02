@@ -44,7 +44,6 @@ systemctl restart sshd
 
 ```bash
 ip addr
-# VM has IP 192.168.122.34
 ```
 
 ## 5. SSH from host to VM
