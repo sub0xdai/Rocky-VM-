@@ -50,14 +50,14 @@ ip addr
 ## 5. SSH from host to VM
 
 ```bash
-ssh root@192.168.122.34
+ssh root@192.000.000
 ```
 
 ## 6. Optional: Create SSH alias on host
 
 ```bash
 # Add to ~/.bashrc
-alias rocky='ssh root@192.168.122.34'
+alias rocky='ssh root@192.000.000'
 
 # Apply changes
 source ~/.bashrc
