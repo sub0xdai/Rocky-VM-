@@ -1,6 +1,6 @@
 # PROJECT Rocky-VM
 
-_I have a dedicated server running Ubuntu, and I was looking to set up a Rocky box for practicing systems administration and creating a personal sandbox. I utilized KVM-QEMU, and here is the guide!!_
+_I have a dedicated server running Ubuntu, and I was looking to set up a Rocky box for practicing systems administration and creating a personal sandbox. I utilized KVM-QEMU, and here is the wack_
 
 # Rocky Linux 9.5 VM Setup Guide
 ## 1. Create VM with text console
