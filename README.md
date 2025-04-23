@@ -43,7 +43,7 @@ systemctl restart sshd
 ## 4. Get VM IP address
 
 ```bash
-ip addr
+ip -br addr
 ```
 
 ## 5. SSH from host to VM
